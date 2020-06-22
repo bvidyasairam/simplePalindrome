@@ -20,6 +20,5 @@ int main()
         cout<<"It is a palindrome";
     else
         cout<<"Not a palindrome";
-    //cout << "Hello world!" << endl;
     return 0;
 }
